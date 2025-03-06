@@ -1,8 +1,8 @@
 package com.example.AddressBook.controllers;
 
 import java.util.*;
-import com.example.Address.Book.dto.EmployeeDTO;
-import com.example.Address.Book.dto.ResponseDTO;
+import com.example.AddressBook.dto.EmployeeDTO;
+import com.example.AddressBook.dto.ResponseDTO;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
